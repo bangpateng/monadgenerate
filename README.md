@@ -1,3 +1,4 @@
+```
 cosmos-explorer/
 ├── public/
 │   ├── index.html
@@ -77,3 +78,4 @@ cosmos-explorer/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── vite.config.js
+```
